@@ -219,7 +219,7 @@ export default function WelcomePage() {
       </Row>
       <Row style={{justifyContent:'center'}}>
         <Col lg={8} >
-          <p><strong>&copy; 2020 Daimo Virtual</strong><br/></p>
+          <p><strong>&copy; 2024 Daimo Virtual</strong><br/></p>
         </Col>
       </Row>
     </Container>
